@@ -1,0 +1,11 @@
+[
+    {
+        "talhao": "FIAP Talhao",
+        "area_ha": 45.5,
+        "esperado_t": 5200.0,
+        "colhido_t": 4800.0,
+        "perda_pct": 7.69,
+        "prejuizo_rs": 60000.0,
+        "data": "20/04/2026"
+    }
+]

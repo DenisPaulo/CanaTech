@@ -1,0 +1,8 @@
+=== RELATORIO DE PERDAS - CANATECH ===
+
+Data: 20/04/2026 11:44
+
+Talhao: FIAP Talhao
+Area: 45.5 ha | Esperado: 5200.0 ton | Colhido: 4800.0 ton
+Perda: 7.69% | Prejuizo: R$ 60000.0
+--------------------------------------------------
