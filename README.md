@@ -90,8 +90,14 @@ CanaTech/
 ├── README.md
 └── requirements.txt
 
+<<<<<<< HEAD
 
 ##⚙️ Como Executar o Projeto
+=======
+---
+
+## ⚙️ Como Executar o Projeto
+>>>>>>> f59b1214cf818fb63691a186b4aeabe3151121d3
 
 Pré-requisitos
 
@@ -106,9 +112,15 @@ Clone o repositório ou entre na pasta do projeto
 Configure seu usuário e senha do Oracle no arquivo oracle_db.py
 Execute o comando:Bashpython main.py
 
+---
 
+## 🧪 Exemplos de Uso
+
+<<<<<<< HEAD
 ##🧪 Exemplos de Uso
 
+=======
+>>>>>>> f59b1214cf818fb63691a186b4aeabe3151121d3
 Cenário 1 (Cadastro normal):
 Talhão: Talhao Norte
 Área: 45.5 ha
@@ -121,7 +133,13 @@ Esperado: 6000 ton
 Colhido: 5100 ton
 → Perda: 15% (alerta máximo)
 
+<<<<<<< HEAD
 ##🗃 Histórico de Versões
+=======
+---
+
+## 🗃 Histórico de Versões
+>>>>>>> f59b1214cf818fb63691a186b4aeabe3151121d3
 
 1.0.0 – 20/04/2026
 
@@ -131,6 +149,7 @@ Manipulação de TXT e JSON
 Subalgoritmos, tabela em memória e validações
 README profissional
 
+---
 
 ## 🎯 Melhorias Futuras
 
@@ -141,6 +160,7 @@ Relatório comparativo entre talhões
 Integração com API de preço da cana em tempo real
 Dashboard web para múltiplos usuários
 
+---
 
 ## 📄 Licença
 
