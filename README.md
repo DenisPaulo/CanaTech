@@ -90,7 +90,9 @@ CanaTech/
 ├── README.md
 └── requirements.txt
 
+
 ##⚙️ Como Executar o Projeto
+
 Pré-requisitos
 
 Oracle Database XE instalado e rodando
@@ -106,6 +108,7 @@ Execute o comando:Bashpython main.py
 
 
 ##🧪 Exemplos de Uso
+
 Cenário 1 (Cadastro normal):
 Talhão: Talhao Norte
 Área: 45.5 ha
@@ -119,6 +122,7 @@ Colhido: 5100 ton
 → Perda: 15% (alerta máximo)
 
 ##🗃 Histórico de Versões
+
 1.0.0 – 20/04/2026
 
 Entrega completa da Fase 2
@@ -139,6 +143,7 @@ Dashboard web para múltiplos usuários
 
 
 ## 📄 Licença
+
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
 MODELO GIT FIAP por Fiap está licenciado sobre Attribution 4.0 International.
 CanaTech – Fase 2: Gestão do Agronegócio em Python
